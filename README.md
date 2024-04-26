@@ -1,4 +1,4 @@
-# PUCRIO-MVP_IHCDesign
+# PUC-RIO - MVP_IHCDesign
 Seja bem-vindo ao repositório da entrega do MVP da cadeira IHC/UX/UI da PUC-RIO
 
 O aplicativo iDonate tem por finalidade facilitar a doação de itens em bom estado para instituições ou pessoas físicas cadastradas na ferramenta. Nesta construção do primeiro MVP do iDonate, vamos permitir que os usuários se cadastrem na ferramenta e incluam donativos no banco de dados de itens para doação.
